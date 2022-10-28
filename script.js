@@ -44,7 +44,7 @@ let digitalClock1 = () => {
     grab2[0].innerHTML = "GOOD EVENING !!";
     grab3.style.backgroundImage = "url('lunch_image.png')";
   } else if (time1 >= 20 && time1 < 24) {
-    grab1[0].innerHTML = "SCLOSE YOUR EYES AND GO TO SLEEP ";
+    grab1[0].innerHTML = "CLOSE YOUR EYES AND GO TO SLEEP ";
     grab2[0].innerHTML = "GOOD NIGHT !!";
     grab3.style.backgroundImage = "url('Component 32 – 1.svg')";
   } else {
